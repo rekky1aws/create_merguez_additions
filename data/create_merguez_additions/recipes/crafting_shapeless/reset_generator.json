@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients" : [
+    {
+      "item": "createcobblestone:mechanical_generator"
+    }
+  ],
+  "result": {
+    "item": "createcobblestone:mechanical_generator"
+  },
+  "show_notification": true
+}

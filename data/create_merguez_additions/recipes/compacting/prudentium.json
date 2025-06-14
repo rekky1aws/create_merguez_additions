@@ -1,0 +1,25 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:inferium_essence"
+    },
+    {
+      "item": "mysticalagriculture:inferium_essence"
+    },
+    {
+      "item": "mysticalagriculture:inferium_essence"
+    },
+    {
+      "item": "mysticalagriculture:inferium_essence"
+    },
+    {
+      "tag": "mysticalagriculture:infusion_crystals"
+    }
+  ],
+  "results": [
+    {
+      "item": "mysticalagriculture:prudentium_essence"
+    }
+  ]
+}

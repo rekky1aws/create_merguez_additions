@@ -1,0 +1,18 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:deepslate"
+    }
+  ],
+  "processingTime": 250,
+  "results": [
+    {
+      "item": "minecraft:cobbled_deepslate"
+    },
+    {
+      "chance": 0.01,
+      "item": "create:experience_nugget"
+    }
+  ]
+}
